@@ -1,6 +1,6 @@
 BYTE Cybersecurity CTF task.
 
-Task 1 - Cryptograohy - Answer - BYTE{bYte_LbA_ChuKA_BadLaV}
+Task 1 - Cryptograohy - Answer - BYTE{bY73_L8A_ChuKA_B4dLaV}
 
 Task 2 - Steganography - Answer - flag{g0t_1t_in_pLAin_sight}
 
